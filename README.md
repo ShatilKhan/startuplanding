@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting Started
 
 Install the dependencies and run the development server
@@ -9,3 +10,7 @@ npm run dev
 yarn
 yarn dev
 ```
+=======
+# startuplanding
+Startup site
+>>>>>>> a7c35910ae1b8e6498993f79c828cc89c7af1757
